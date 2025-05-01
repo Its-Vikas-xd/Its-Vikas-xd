@@ -6,10 +6,10 @@ Currently focused on Python programming and data analysis. I love working with d
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Libraries**: Python, NumPy, Pandas, Matplotlib
-- **Database & BI Tools**: MySQL, Power BI
-- **Web Basics**: HTML, CSS, JavaScript (basic knowledge)
-- **Other Skills**: Data cleaning, data visualization, dashboarding
+- **Languages & Libraries**: Python, NumPy, Pandas, Matplotlib  
+- **Database & BI Tools**: MySQL, Power BI  
+- **Web Basics**: HTML, CSS, JavaScript (basic knowledge)  
+- **Other Skills**: Data cleaning, data visualization, dashboarding  
 
 ## 🚀 What I'm Doing
 
@@ -26,9 +26,11 @@ Currently focused on Python programming and data analysis. I love working with d
 
 Feel free to reach out or collaborate!  
 📍 India  
-✉️ itsvikassharma007@gmail.com 
+✉️ [itsvikassharma007@gmail.com](mailto:itsvikassharma007@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vikas-sharma-493115361/)  
+🐦 [X (Twitter)](https://x.com/ItsVikasXd)  
+💻 [GitHub](https://github.com/Its-Vikas-xd)
 
 ---
 
 ⭐️ Thanks for visiting my GitHub! Stay tuned for more projects 🚀
-
