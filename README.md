@@ -1,36 +1,53 @@
-# 👋 Hey there! I'm @Its-Vikas-xd
+<h1 align="center">Hi, I'm Vikas! 👋</h1>
 
-## 👨‍💻 About Me
-I'm a passionate learner and aspiring full stack developer from India 🇮🇳  
-Currently focused on Python programming and data analysis. I love working with data, solving problems, and learning new technologies.
-
-## 🛠️ Skills & Tools
-
-- **Languages & Libraries**: Python, NumPy, Pandas, Matplotlib  
-- **Database & BI Tools**: MySQL, Power BI  
-- **Web Basics**: HTML, CSS, JavaScript (basic knowledge)  
-- **Other Skills**: Data cleaning, data visualization, dashboarding  
-
-## 🚀 What I'm Doing
-
-- 🔭 Exploring backend logic & data pipelines  
-- 📊 Building dashboards & reports using Power BI  
-- 🌱 Learning full stack development, one step at a time  
-- 🧠 Always working on small hands-on projects to level up
-
-## 💡 Motto
-
-> "Code. Analyze. Visualize. Repeat."
-
-## 📫 Let's Connect
-
-Feel free to reach out or collaborate!  
-📍 India  
-✉️ [itsvikassharma007@gmail.com](mailto:itsvikassharma007@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikas-sharma-493115361/)  
-🐦 [X (Twitter)](https://x.com/ItsVikasXd)  
-💻 [GitHub](https://github.com/Its-Vikas-xd)
+<p align="center">
+  💻 Python Developer | 📊 Data Analytics Enthusiast | 🌐 Web Developer | 🔌 IoT Learner  
+</p>
 
 ---
 
-⭐️ Thanks for visiting my GitHub! Stay tuned for more projects 🚀
+### 🚀 About Me
+
+- 🐍 I love working with **Python** and its powerful libraries like **NumPy, Pandas, Matplotlib**
+- 🌐 Building **Full-Stack Web Apps** using **Flask + HTML/CSS + JS + MySQL**
+- 📊 Passionate about **Data Analytics** and learning **Machine Learning**
+- 🔧 Also exploring the world of **IoT** and writing code in **Embedded C**
+- 🧠 A proud **self-learner** and currently pursuing **NIELIT O Level**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, Embedded C  
+- **Web Dev:** Flask, HTML5, CSS3, W3.CSS, JavaScript (Basic)  
+- **Data Tools:** NumPy, Pandas, Matplotlib  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+- **Soft Skills:** Problem-Solving, Fast Learner, Self-Motivated
+
+---
+
+### 📚 What I'm Learning Now
+
+- ✅ Machine Learning basics  
+- ✅ Building Data Dashboards using **Streamlit**  
+- ✅ More Real-world Projects using **Flask & MySQL**
+
+---
+
+### 📂 Featured Projects
+
+- 🔗 [Full Stack Registration Form using HTML/CSS/JS + Flask + MySQL](https://github.com/Its-Vikas-xd/-Full-Stack-Registration-Form-using-HTML-CSS-JavaScript-Flask-MySQL)  
+- 📘 [Advanced NumPy Notes](https://github.com/Its-Vikas-xd/Python-Notes)
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-username)  
+- [GitHub](https://github.com/Its-Vikas-xd)  
+- [X (Twitter)](https://x.com/yourhandle)
+
+---
+
+_Thanks for stopping by! Keep building, keep learning!_ 🚀
