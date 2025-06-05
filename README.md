@@ -65,23 +65,22 @@
 
 <p align="center">
   <a href="https://github.com/Its-Vikas-xd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Vikas's GitHub Stats" height="180">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" alt="Vikas's GitHub Stats" height="180">
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=8&hide=html,css" height="180">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=6&hide=c,html,css,javascript&exclude_repo=embedded-projects" height="180">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Vikas-xd&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Vikas-xd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Its-Vikas-xd?tab=repositories">
-    <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort=">
+    <img alt="Python Repos" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logoColor=white&logo=python"/>
   </a>
 </p>
-
 ---
 
 ### 💬 Let's Connect!
