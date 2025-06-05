@@ -1,37 +1,41 @@
-<h1 align="center">Hi, I'm Vikas! 👋</h1>
+<h1 align="center">Hi, I'm Vikas Sharma! 👋</h1>
 
 <p align="center">
-  💻 Python Developer | 📊 Data Analytics Enthusiast | 🌐 Web Developer | 🔌 IoT Learner  
+  💻 Python Developer | 📊 Data Analytics Enthusiast | 📈 Power BI Learner | 🌐 Web Developer | 🔌 IoT Explorer  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🐍 I love working with **Python** and its powerful libraries like **NumPy, Pandas, Matplotlib**
-- 🌐 Building **Full-Stack Web Apps** using **Flask + HTML/CSS + JS + MySQL**
-- 📊 Passionate about **Data Analytics** and learning **Machine Learning**
-- 🔧 Also exploring the world of **IoT** and writing code in **Embedded C**
-- 🧠 A proud **self-learner** and currently pursuing **NIELIT O Level**
+I'm a **passionate Python developer** and **data analytics enthusiast** with a strong foundation in transforming data into impactful insights. I love exploring patterns in data and presenting them through **beautiful dashboards** and **interactive web apps**.
+
+- 🐍 Skilled in **Python** and libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**  
+- 📊 Experienced in building **data dashboards** using **Power BI**, **Excel**, and **Streamlit**  
+- 🌐 Develop lightweight **web apps** using **Flask + HTML/CSS + JavaScript (Basic)**  
+- 🧠 Constantly learning and upgrading my skills through projects and self-study  
+- 🔌 Curious about **IoT**, currently exploring **Embedded C** and sensor programming  
+- 🎓 Pursuing **NIELIT O Level Certification**
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Python, Embedded C  
-- **Web Dev:** Flask, HTML5, CSS3, W3.CSS, JavaScript (Basic)  
-- **Data Tools:** NumPy, Pandas, Matplotlib  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **Soft Skills:** Problem-Solving, Fast Learner, Self-Motivated
+- **Web Development:** Flask, HTML5, CSS3, W3.CSS, JavaScript (Basic)  
+- **Data Tools & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Power BI, Excel  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Soft Skills:** Problem Solving, Fast Learner, Self-Motivated, Consistent
 
 ---
 
 ### 📚 What I'm Learning Now
 
-- ✅ Machine Learning basics  
-- ✅ Building Data Dashboards using **Streamlit**  
-- ✅ More Real-world Projects using **Flask & MySQL**
+- ✅ Machine Learning Basics  
+- ✅ Data Dashboarding using **Power BI** & **Streamlit**  
+- ✅ Real-world Projects using **Flask & MySQL**  
+- ✅ Python Automation & Scripting
 
 ---
 
@@ -50,4 +54,4 @@
 
 ---
 
-_Thanks for stopping by! Keep building, keep learning!_ 🚀
+_Thanks for stopping by! Keep building, keep learning, and stay curious!_ 🚀
