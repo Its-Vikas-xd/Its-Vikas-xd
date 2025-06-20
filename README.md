@@ -96,23 +96,15 @@ IoT Systems       ████████░░░░░░░░░░░░�
   <table> 
     <tr> 
       <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /> 
+        <img src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" width="50" height="50" alt="Data Science" /> 
         <br>TensorFlow 
       </td> 
       <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /> 
-        <br>React 
+        <img src="https://cdn-icons-png.flaticon.com/512/3097/3097922.png" width="50" height="50" alt="machine learning " /> 
+        <br>Machine Learning 
       </td> 
       <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" /> 
-        <br>AWS 
-      </td> 
-      <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" /> 
-        <br>Django 
-      </td> 
-      <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /> 
+        <img src="https://cdn-icons-png.flaticon.com/512/10872/10872628.png" width="50" height="50" alt="Data Analysis" /> 
         <br>FastAPI 
       </td> 
     </tr> 
