@@ -78,60 +78,61 @@ I'm on a mission to bridge the gap between data and actionable insights while cr
 ---
 ## 📈 Skill Proficiency
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,seaborn,matplotlib,flask,streamlit,mysql,html,css,js,vscode,git" alt="Skill Icons" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th>⚙️ Skill</th>
-      <th>🚀 Proficiency</th>
+      <th align="left">⚙️ Skill</th>
+      <th align="left">🚀 Proficiency</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Python</strong> 🐍</td>
+      <td><strong>Python</strong></td>
       <td>██████████░░░░ (80%)</td>
     </tr>
     <tr>
-      <td><strong>Pandas & NumPy</strong> 📊</td>
+      <td><strong>Pandas & NumPy</strong></td>
       <td>█████████░░░░░ (75%)</td>
     </tr>
     <tr>
-      <td><strong>Jupyter Notebook</strong> 📓</td>
+      <td><strong>Jupyter Notebook</strong></td>
       <td>████████░░░░░░ (70%)</td>
     </tr>
     <tr>
-      <td><strong>Matplotlib / Seaborn</strong> 📈</td>
+      <td><strong>Matplotlib / Seaborn</strong></td>
       <td>████████░░░░░░ (70%)</td>
     </tr>
     <tr>
-      <td><strong>Flask / Streamlit</strong> 🌐</td>
+      <td><strong>Flask / Streamlit</strong></td>
       <td>███████░░░░░░░ (65%)</td>
     </tr>
     <tr>
-      <td><strong>MySQL</strong> 💾</td>
+      <td><strong>MySQL</strong></td>
       <td>██████░░░░░░░░ (60%)</td>
     </tr>
     <tr>
-      <td><strong>HTML / CSS / JS</strong> 🖥️</td>
+      <td><strong>HTML / CSS / JavaScript</strong></td>
       <td>██████░░░░░░░░ (60%)</td>
     </tr>
     <tr>
-      <td><strong>Power BI / Excel</strong> 📊</td>
+      <td><strong>Power BI / Excel</strong></td>
       <td>███████░░░░░░░ (65%)</td>
     </tr>
     <tr>
-      <td><strong>Git & GitHub</strong> 🔧</td>
+      <td><strong>Git & GitHub</strong></td>
       <td>████████░░░░░░ (70%)</td>
     </tr>
     <tr>
-      <td><strong>Problem Solving</strong> 🧠</td>
+      <td><strong>Problem Solving</strong></td>
       <td>████████░░░░░░ (70%)</td>
     </tr>
   </tbody>
 </table>
+
 
 ## 🌱 Currently Learning
 <div align="center"> 
