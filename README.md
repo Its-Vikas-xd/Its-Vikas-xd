@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b8ef3a45-05f9-4e49-9e58-dad7bac81c60)<h1 align="center">✨ Hello World! I'm Vikas ✨</h1>
+<h1 align="center">✨ Hello World! I'm Vikas ✨</h1>
 <h3 align="center">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
