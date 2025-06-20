@@ -2,10 +2,6 @@
 <h3 align="center">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/coding-banner.gif" alt="Professional Coding Animation" width="100%">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
