@@ -121,7 +121,7 @@ IoT Systems       ████████░░░░░░░░░░░░�
         <h3 align="center">📈 Spotify Analytics Dashboard</h3> 
         <div align="center"> 
           <a href="#"> 
-            <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large" alt="Dashboard Preview" width="100%"> 
+            <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large" alt="Dashboard Preview" width="50%"> 
           </a> 
           <p>An interactive 3-page dashboard built using Power BI to explore Spotify listening behavior. Data is pulled from MySQL using Python, cleaned and transformed with Pandas, and visualized using interactive dashboards.</p> 
           <p> 
