@@ -79,9 +79,10 @@
 
 <p align="center">
   <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort=">
-    <img alt="Python Projects" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Explore Python Projects" src="https://img.shields.io/badge/Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
