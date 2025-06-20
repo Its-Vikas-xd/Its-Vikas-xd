@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://x.com/ItsVikasXd">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X">
   </a>
 </p>
 
@@ -21,11 +21,11 @@
 
 ### 🚀 About Me
 
-🎓 Self-taught developer pursuing **NIELIT O Level**  
+🎓 Self-taught developer currently pursuing **NIELIT O Level**  
 💡 Passionate about **Data Analytics**, **Web Development**, and **IoT Systems**  
-🔍 I love turning raw data into insights with Python  
-🧩 Problem-solving enthusiast — building practical solutions is my thing  
-☕ Fueled by curiosity & strong coffee  
+🔍 Love turning raw data into meaningful insights using Python  
+🧩 Constantly experimenting and building real-world solutions  
+☕ Forever fueled by curiosity and coffee  
 
 ---
 
@@ -34,66 +34,63 @@
 ### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003866?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1E2952?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D3F50?style=for-the-badge&logo=seaborn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌐 Web Development
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Embedded C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
 
 - 🤖 Machine Learning Fundamentals  
-- 📈 Advanced Data Visualization Techniques  
-- 📊 Building Interactive Dashboards (Streamlit, Power BI)  
-- 🧠 Backend Development Concepts  
-- ☁️ Exploring Cloud Platforms (AWS/GCP)  
+- 📈 Advanced Data Visualization  
+- 📊 Interactive Dashboards (Streamlit & Power BI)  
+- 🧠 Backend & API Development  
+- ☁️ Exploring Cloud Platforms (AWS, GCP)  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" height="180">
-  </a>
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=6&hide=c,html,css,javascript&exclude_repo=embedded-projects" height="180">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=6&hide=css,html,javascript&exclude_repo=embedded-projects" alt="Top Languages" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Vikas-xd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Its-Vikas-xd&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
 </p>
 
 <p align="center">
   <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort=">
-    <img alt="Python Projects" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logoColor=white&logo=python"/>
+    <img alt="Python Projects" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💬 Let’s Connect!
+### 💬 Let's Connect!
 
 I'm always open to:
-- 💬 Collaborations on open-source/freelance projects  
-- 💡 Learning together and exchanging ideas  
-- 🤝 Exploring job/internship opportunities  
+- 🤝 Collaborating on open-source or freelance projects  
+- 💬 Connecting with like-minded tech enthusiasts  
+- 🚀 Exploring internship or job opportunities  
 
 📫 Reach me at:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
