@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/coding-banner.gif" alt="Professional Coding Animation" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&s" alt="Professional Coding Animation" width="100%">
 </p>
 
 <p align="center">
