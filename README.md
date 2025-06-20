@@ -133,22 +133,27 @@ IoT Systems       ████████░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/Seaborn-2D3F50?style=flat-square&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
-            
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"> 
           </p> 
         </div> 
       </td> 
       <td width="50%"> 
-        <h3 align="center">🌐 IoT Monitoring System</h3> 
+        <h3 align="center">🛍️ Shopify | Sales & Customer Funnel Report Dashboard </h3> 
         <div align="center"> 
           <a href="#"> 
-            <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/iot-preview.png" alt="IoT Preview" width="100%"> 
+            <img src="https://pbs.twimg.com/media/Gt5W8aRXoAAI3Rz?format=jpg&name=large" alt="IoT Preview" width="50%"> 
           </a> 
-          <p>Real-time sensor monitoring system with Flask backend and responsive frontend</p> 
+          <p>An interactive 2-page dashboard built using Power BI to analyze Shopify sales, customer behavior, and retention patterns. Data is extracted from MySQL using Python, cleaned and processed using Pandas, and visualized through insightful and interactive charts.</p> 
           <p> 
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> 
-            <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"> 
+          <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-2D3F50?style=flat-square&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"> 
           </p> 
         </div> 
       </td> 
