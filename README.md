@@ -2,6 +2,10 @@
 <h3 align="center">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated Banner" height="180">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -17,11 +21,11 @@
 
 ### 🚀 About Me
 
-🎓 Self-taught developer currently pursuing **NIELIT O Level**  
-💡 Passionate about **data analytics**, **web development**, and **IoT systems**  
-🔎 Skilled in Python and always curious to explore tools that turn data into insights  
-🧩 I love problem-solving through code and building things that make an impact  
-☕ Fueled by curiosity and a strong cup of coffee  
+🎓 Self-taught developer pursuing **NIELIT O Level**  
+💡 Passionate about **Data Analytics**, **Web Development**, and **IoT Systems**  
+🔍 I love turning raw data into insights with Python  
+🧩 Problem-solving enthusiast — building practical solutions is my thing  
+☕ Fueled by curiosity & strong coffee  
 
 ---
 
@@ -44,20 +48,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-### 🌱 Current Learning Journey
+### 🌱 Currently Learning
 
-- 🤖 **Machine Learning Fundamentals**  
-- 📈 Advanced **Data Visualization Techniques**  
-- 📊 **Interactive Dashboards** with Streamlit & Power BI  
-- 🔐 Strengthening **Backend Development**  
-- ☁️ Learning **Cloud Platforms (AWS/GCP)**  
+- 🤖 Machine Learning Fundamentals  
+- 📈 Advanced Data Visualization Techniques  
+- 📊 Building Interactive Dashboards (Streamlit, Power BI)  
+- 🧠 Backend Development Concepts  
+- ☁️ Exploring Cloud Platforms (AWS/GCP)  
 
 ---
 
@@ -65,10 +69,10 @@
 
 <p align="center">
   <a href="https://github.com/Its-Vikas-xd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" alt="Vikas's GitHub Stats" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" height="180">
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=6&hide=c,html,css,javascript&exclude_repo=embedded-projects" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=6&hide=c,html,css,javascript&exclude_repo=embedded-projects" height="180">
   </a>
 </p>
 
@@ -78,26 +82,26 @@
 
 <p align="center">
   <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort=">
-    <img alt="Python Repos" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logoColor=white&logo=python"/>
+    <img alt="Python Projects" src="https://custom-icon-badges.demolab.com/badge/-Explore%20Python%20Projects-3776AB?style=for-the-badge&logoColor=white&logo=python"/>
   </a>
 </p>
+
 ---
 
-### 💬 Let's Connect!
+### 💬 Let’s Connect!
 
 I'm always open to:
-- 💬 Collaborating on open-source or freelance projects  
-- 💡 Learning and sharing ideas in tech and data science  
-- 🤝 Exploring job or internship opportunities  
+- 💬 Collaborations on open-source/freelance projects  
+- 💡 Learning together and exchanging ideas  
+- 🤝 Exploring job/internship opportunities  
 
-📫 Reach me at: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+📫 Reach me at:  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Its-Vikas-xd&style=flat-square&color=blue" alt="Profile Views">
   <br>
-  <em>Keep coding, keep exploring!</em> ✨
+  <em>Keep coding, keep exploring — one commit at a time 🚀</em>
 </p>
-
-
