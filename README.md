@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Turning+Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
 </div>
 
 ---
