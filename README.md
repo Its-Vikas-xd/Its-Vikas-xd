@@ -118,16 +118,23 @@ IoT Systems       ████████░░░░░░░░░░░░�
   <table> 
     <tr> 
       <td width="50%"> 
-        <h3 align="center">📈 Data Visualization Dashboard</h3> 
+        <h3 align="center">📈 Spotify Analytics Dashboard</h3> 
         <div align="center"> 
           <a href="#"> 
-            <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/dashboard-preview.png" alt="Dashboard Preview" width="100%"> 
+            <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large" alt="Dashboard Preview" width="100%"> 
           </a> 
-          <p>Interactive dashboard built with Python and Streamlit for real-time data analysis</p> 
+          <p>An interactive 3-page dashboard built using Power BI to explore Spotify listening behavior. Data is pulled from MySQL using Python, cleaned and transformed with Pandas, and visualized using interactive dashboards.</p> 
           <p> 
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"> 
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> 
+              <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-2D3F50?style=flat-square&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
+            
           </p> 
         </div> 
       </td> 
