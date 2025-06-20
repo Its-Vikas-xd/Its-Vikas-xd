@@ -78,7 +78,7 @@ I'm on a mission to bridge the gap between data and actionable insights while cr
 ---
 ## 📈 Skill Proficiency
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,seaborn,matplotlib,flask,streamlit,mysql,html,css,js,vscode,git" alt="Skill Icons" />
 </p>
 
@@ -236,12 +236,9 @@ I'm always open to:
 - 📚 Sharing knowledge and resources
 
 <div align="center"> 
-  <a href="mailto:your.email@example.com"> 
+  <a href="itsvikassharma007@gmail.com"> 
     <img src="https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
-  </a> 
-  <a href="https://calendly.com/your-calendar" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Schedule%20a%20Call-008080?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Calendar"> 
-  </a> 
+  </a>  
 </div>
 
 ---
