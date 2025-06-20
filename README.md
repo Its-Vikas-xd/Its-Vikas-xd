@@ -79,31 +79,129 @@ I'm on a mission to bridge the gap between data and actionable insights while cr
 
 ## 📈 Skill Proficiency
 
-```text
+<!-- Fixed progress bars section -->
+<pre>
 Python            ████████████████░░░░ 85% 
 Data Analysis     ██████████████░░░░░░░ 75%
 Flask/Streamlit   ████████████░░░░░░░░░ 65%
 SQL               ██████████░░░░░░░░░░░ 55%
 JavaScript        ████████░░░░░░░░░░░░░ 45%
 IoT Systems       ████████░░░░░░░░░░░░░ 40%
+</pre>
 
+---
 
-🌱 Currently Learning
-<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /> <br>TensorFlow </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" /> <br>AWS </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" /> <br>Django </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /> <br>FastAPI </td> </tr> </table> </div>
-💼 Featured Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">📈 Data Visualization Dashboard</h3> <div align="center"> <a href="#"> <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/dashboard-preview.png" alt="Dashboard Preview" width="100%"> </a> <p>Interactive dashboard built with Python and Streamlit for real-time data analysis</p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> </p> </div> </td> <td width="50%"> <h3 align="center">🌐 IoT Monitoring System</h3> <div align="center"> <a href="#"> <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/iot-preview.png" alt="IoT Preview" width="100%"> </a> <p>Real-time sensor monitoring system with Flask backend and responsive frontend</p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"> </p> </div> </td> </tr> </table> </div>
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/Its-Vikas-xd"> <img src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=5D3FD3&icon_color=5D3FD3" alt="GitHub Stats" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=8&bg_color=0d1117&title_color=5D3FD3" alt="Top Languages" height="165"> </a> </div><div align="center"> <a href="https://github.com/Its-Vikas-xd"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Vikas-xd&theme=radical&background=0d1117&stroke=5D3FD3&ring=5D3FD3&fire=5D3FD3&currStreakLabel=5D3FD3" alt="GitHub Streak" height="165"> </a> </div><div align="center"> <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort="> <img src="https://img.shields.io/badge/Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a> </div>
-💬 Let's Connect!
+## 🌱 Currently Learning
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /> 
+        <br>TensorFlow 
+      </td> 
+      <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /> 
+        <br>React 
+      </td> 
+      <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" /> 
+        <br>AWS 
+      </td> 
+      <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" /> 
+        <br>Django 
+      </td> 
+      <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /> 
+        <br>FastAPI 
+      </td> 
+    </tr> 
+  </table> 
+</div>
+
+---
+
+## 💼 Featured Projects
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td width="50%"> 
+        <h3 align="center">📈 Data Visualization Dashboard</h3> 
+        <div align="center"> 
+          <a href="#"> 
+            <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/dashboard-preview.png" alt="Dashboard Preview" width="100%"> 
+          </a> 
+          <p>Interactive dashboard built with Python and Streamlit for real-time data analysis</p> 
+          <p> 
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"> 
+            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> 
+          </p> 
+        </div> 
+      </td> 
+      <td width="50%"> 
+        <h3 align="center">🌐 IoT Monitoring System</h3> 
+        <div align="center"> 
+          <a href="#"> 
+            <img src="https://raw.githubusercontent.com/its-vikas-xd/its-vikas-xd/main/assets/iot-preview.png" alt="IoT Preview" width="100%"> 
+          </a> 
+          <p>Real-time sensor monitoring system with Flask backend and responsive frontend</p> 
+          <p> 
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> 
+            <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"> 
+          </p> 
+        </div> 
+      </td> 
+    </tr> 
+  </table> 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+<div align="center"> 
+  <a href="https://github.com/Its-Vikas-xd"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=5D3FD3&icon_color=5D3FD3" alt="GitHub Stats" height="165"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=8&bg_color=0d1117&title_color=5D3FD3" alt="Top Languages" height="165"> 
+  </a> 
+</div>
+
+<div align="center"> 
+  <a href="https://github.com/Its-Vikas-xd"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Vikas-xd&theme=radical&background=0d1117&stroke=5D3FD3&ring=5D3FD3&fire=5D3FD3&currStreakLabel=5D3FD3" alt="GitHub Streak" height="165"> 
+  </a> 
+</div>
+
+<div align="center"> 
+  <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort="> 
+    <img src="https://img.shields.io/badge/Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  </a> 
+</div>
+
+---
+
+## 💬 Let's Connect!
+
 I'm always open to:
+- 🤝 Collaborating on innovative projects
+- 💬 Discussing technology and data trends
+- 🚀 Exploring new opportunities
+- 📚 Sharing knowledge and resources
 
-🤝 Collaborating on innovative projects
+<div align="center"> 
+  <a href="mailto:your.email@example.com"> 
+    <img src="https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+  </a> 
+  <a href="https://calendly.com/your-calendar" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Schedule%20a%20Call-008080?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Calendar"> 
+  </a> 
+</div>
 
-💬 Discussing technology and data trends
+---
 
-🚀 Exploring new opportunities
-
-📚 Sharing knowledge and resources
-
-<div align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://calendly.com/your-calendar" target="_blank"> <img src="https://img.shields.io/badge/-Schedule%20a%20Call-008080?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Calendar"> </a> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Its-Vikas-xd&style=flat-square&color=5D3FD3" alt="Profile Views"> <p>✨ <em>Every line of code is a step toward innovation</em> ✨</p> <p>Made with ❤️ and Python</p> </div> ```
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Its-Vikas-xd&style=flat-square&color=5D3FD3" alt="Profile Views"> 
+  <p>✨ <em>Every line of code is a step toward innovation</em> ✨</p> 
+  <p>Made with ❤️ and Python</p> 
+</div>
