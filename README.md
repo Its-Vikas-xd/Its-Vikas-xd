@@ -1,13 +1,75 @@
 <h1 align="center">
   <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=120&section=header&text=✨%20Hello%20World!%20I'm%20Vikas%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="Header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=140&section=header&text=✨%20Hello%20World!%20I'm%20Vikas%20✨&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=65&descSize=24" alt="Animated Header">
   </a>
 </h1>
 
-<div align="center">
-  <h2 style="color: #7F3DFF;">Python Developer | Data Analyst | Full-Stack Explorer</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F3DFF&center=true&vCenter=true&width=435&lines=Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
+<div align="center" style="position: relative;">
+  <!-- Floating elements around profile -->
+  <div style="position: absolute; top: -30px; left: 10%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="animation: float 4s ease-in-out infinite;" />
+  </div>
+  <div style="position: absolute; top: -20px; right: 15%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" style="animation: float 5s ease-in-out infinite;" />
+  </div>
+  <div style="position: absolute; bottom: 10px; left: 20%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" style="animation: float 6s ease-in-out infinite;" />
+  </div>
+  
+  <!-- Main profile content -->
+  <div style="position: relative; z-index: 2;">
+    <div style="display: inline-block; background: linear-gradient(135deg, #7F3DFF, #5D3FD3); padding: 5px; border-radius: 50%; box-shadow: 0 0 20px rgba(127, 61, 255, 0.6);">
+      <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/1f0a7c8c-3f28-4a2c-8a33-2f5a0f4d8c7e" alt="Vikas Sharma" width="120" style="border-radius: 50%; border: 3px solid white;" />
+    </div>
+    
+    <h2 style="color: #7F3DFF; font-size: 32px; margin: 15px 0; text-shadow: 0 0 10px rgba(127, 61, 255, 0.3); background: linear-gradient(45deg, #7F3DFF, #5D3FD3); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      <span class="animated-text">Python Developer</span> | 
+      <span class="animated-text">Data Analyst</span> | 
+      <span class="animated-text">Full-Stack Explorer</span>
+    </h2>
+    
+    <div style="max-width: 600px; margin: 0 auto; padding: 15px; background: rgba(127, 61, 255, 0.05); border-radius: 15px; backdrop-filter: blur(5px); border: 1px solid rgba(127, 61, 255, 0.2);">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F3DFF&center=true&vCenter=true&width=435&lines=Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
+    </div>
+  </div>
 </div>
+
+<style>
+  .animated-text {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .animated-text::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: -5px;
+    left: 0;
+    background: linear-gradient(90deg, #7F3DFF, #5D3FD3);
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+  }
+  
+  .animated-text:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 <p align="center">
   <a href="https://vikas-portfolio-chi.vercel.app/">
