@@ -87,6 +87,8 @@
 
 ## 📊 Skill Proficiency
 
+
+```mermaid
 graph LR
     A[Python 80%] -->|Expertise| B[Data Analysis]
     C[Pandas/NumPy 75%] -->|Processing| B
@@ -94,7 +96,7 @@ graph LR
     E[Flask/Streamlit 65%] -->|Web Apps| F[Web Dev]
     G[SQL 60%] -->|Databases| F
     H[HTML/CSS/JS 60%] -->|Frontend| F
----
+```
 🌱 Currently Exploring
 <div align="center" style="display: flex; justify-content: center; gap: 20px;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" /> <p><strong>TensorFlow</strong></p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI" /> <p><strong>FastAPI</strong></p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" alt="Azure" /> <p><strong>Azure</strong></p> </div> </div>
 🏆 Featured Projects
