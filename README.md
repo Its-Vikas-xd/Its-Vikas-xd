@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Header">
+  <a href="https://github.com/Its-Vikas-xd">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=120&section=header&text=✨%20Hello%20World!%20I'm%20Vikas%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="Header">
+  </a>
 </h1>
-
-<h3 align="center">
-  Python Developer | Data Analyst | Full-Stack Explorer
-</h3>
+<h3 align="center" style="color: #7F3DFF;">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
