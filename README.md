@@ -6,6 +6,9 @@
 <h3 align="center" style="color: #7F3DFF;">Python Developer | Data Analyst | Full-Stack Explorer</h3>
 
 <p align="center">
+  <a href="https://vikas-portfolio-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-7F3DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -28,16 +31,23 @@
 
 ## 🚀 About Me
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" />
+<div style="display:flex; align-items:center;">
+  <div style="flex:1;">
+    <p>
+      🎓 <strong>Self-taught developer</strong> currently pursuing <strong>NIELIT O Level</strong><br>
+      💡 Passionate about <strong>Data Analytics</strong>, <strong>Web Development</strong>, and <strong>IoT Systems</strong><br>
+      🔍 Transforming raw data into actionable insights using <strong>Python</strong><br>
+      🧩 Building innovative, real-world software solutions<br>
+      🚀 Always learning, creating, and solving<br>
+      ☕ Fueled by curiosity, creativity, and coffee<br>
+      <br>
+      I'm on a mission to bridge the gap between data and actionable insights while creating impactful software solutions.
+    </p>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" />
+  </div>
 </div>
-
-- 🎓 Self-taught developer currently pursuing **NIELIT O Level**
-- 💡 Passionate about **Data Analytics**, **Web Development**, and **IoT Systems**
-- 🔍 Transforming raw data into actionable insights using **Python**
-- 🧩 Building innovative, real-world software solutions
-- 🚀 Always learning, creating, and solving
-- ☕ Fueled by curiosity, creativity, and coffee
 
 ---
 
@@ -99,31 +109,35 @@
 ## 🏆 Featured Projects
 
 ### 🎵 Spotify Analytics Dashboard
-<a href="https://github.com/Its-Vikas-xd/spotify-analytics-Dashboard">
-  <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large width="100%" />
-</a>
+<div align="center">
+  <a href="https://github.com/Its-Vikas-xd/spotify-analytics-Dashboard">
+    <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large" width="80%" />
+  </a>
+</div>
 
 > Interactive Power BI dashboard analyzing Spotify listening patterns.  
 > Data from MySQL ➝ Cleaned in Pandas ➝ Multi-page visualization.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ### 🛍️ Shopify Sales Dashboard
-<a href="https://github.com/Its-Vikas-xd/Shopify-Dashboard">
-  <img src="https://pbs.twimg.com/media/Gt5W8aRXoAAI3Rz?format=jpg&name=large" width="100%" />
-</a>
+<div align="center">
+  <a href="https://github.com/Its-Vikas-xd/Shopify-Dashboard">
+    <img src="https://pbs.twimg.com/media/Gt5W8aRXoAAI3Rz?format=jpg&name=large" width="80%" />
+  </a>
+</div>
 
 > Comprehensive sales dashboard tracking retention, sales, and conversions using Power BI.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
@@ -155,13 +169,15 @@
 ## 🤝 Let's Collaborate!
 
 I'm always open to:
-
 - 🤝 Innovative project collaborations  
 - 💬 Technology discussions  
 - 🚀 Career opportunities  
 - 📚 Knowledge sharing  
 
 <p align="center">
+  <a href="https://vikas-portfolio-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-7F3DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
   <a href="mailto:itsvikassharma007@gmail.com">
     <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
