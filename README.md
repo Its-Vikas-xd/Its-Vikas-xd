@@ -29,7 +29,7 @@
 ## 🚀 About Me
 
 <div align="right">
-  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/1f0a7c8c-3f28-4a2c-8a33-2f5a0f4d8c7e" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" />
 </div>
 
 - 🎓 Self-taught developer currently pursuing **NIELIT O Level**
