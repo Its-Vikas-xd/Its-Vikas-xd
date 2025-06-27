@@ -49,23 +49,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://vikas-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-7F3DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/ItsVikasXd">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:itsvikassharma007@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ---
 
