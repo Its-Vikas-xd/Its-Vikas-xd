@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7F3DFF&center=true&vCenter=true&width=500&height=60&lines=✨+Hello+World!+I'm+Vikas+✨" alt="Animated Header">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Header">
 </h1>
 
 <h3 align="center">
