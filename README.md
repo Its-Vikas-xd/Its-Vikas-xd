@@ -18,7 +18,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHf1napMWC8kOFCV4Ivxzdu5LNkBVLOM2fYA&s"width="40" />
   </div>
   
   <!-- Typing Text -->
