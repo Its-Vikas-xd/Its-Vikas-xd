@@ -101,7 +101,7 @@
 
 ### 🎵 Spotify Analytics Dashboard
 <a href="https://github.com/Its-Vikas-xd/spotify-analytics-Dashboard">
-  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/3b0f5d5a-3c6b-4c9c-8c0c-6f0b1b5a9a5e" width="100%" />
+  <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large width="100%" />
 </a>
 
 > Interactive Power BI dashboard analyzing Spotify listening patterns.  
