@@ -100,7 +100,7 @@
 ## 🏆 Featured Projects
 
 ### 🎵 Spotify Analytics Dashboard
-<a href="#">
+<a href="https://github.com/Its-Vikas-xd/spotify-analytics-Dashboard">
   <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/3b0f5d5a-3c6b-4c9c-8c0c-6f0b1b5a9a5e" width="100%" />
 </a>
 
@@ -111,13 +111,15 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ### 🛍️ Shopify Sales Dashboard
-<a href="#">
-  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/4e5f7a6d-36f9-44d7-85e7-4c2c4d0c4e7a" width="100%" />
+<a href="https://github.com/Its-Vikas-xd/Shopify-Dashboard">
+  <img src="https://pbs.twimg.com/media/Gt5W8aRXoAAI3Rz?format=jpg&name=large" width="100%" />
 </a>
 
 > Comprehensive sales dashboard tracking retention, sales, and conversions using Power BI.
@@ -126,6 +128,8 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
