@@ -6,10 +6,7 @@
 
 <div align="center">
   <!-- Profile Image with Gradient Border -->
-  <div style="display: inline-block; background: linear-gradient(135deg, #7F3DFF, #5D3FD3); padding: 5px; border-radius: 50%; box-shadow: 0 0 20px rgba(127, 61, 255, 0.6);">
-    <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/assets/61094777/1f0a7c8c-3f28-4a2c-8a33-2f5a0f4d8c7e" alt="Vikas Sharma" width="120" style="border-radius: 50%; border: 3px solid white;" />
-  </div>
-  
+
   <!-- Title with Gradient Text -->
   <h2 style="margin: 15px 0; font-size: 28px; background: linear-gradient(45deg, #7F3DFF, #5D3FD3); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
     Python Developer | Data Analyst | Full-Stack Explorer
