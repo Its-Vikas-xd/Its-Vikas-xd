@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Its-Vikas-xd">
-   <img src="https://raw.githubusercontent.com/Its-Vikas-xd/Its-Vikas-xd/main/images/profile.jpg" alt="Vikas Sharma" width="120" style="border-radius: 50%; border: 3px solid white;" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=140&section=header&text=✨%20Hello%20World!%20I'm%20Vikas%20✨&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Animated Header">
   </a>
 </h1>
 
