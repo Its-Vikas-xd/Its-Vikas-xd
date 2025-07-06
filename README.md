@@ -130,13 +130,24 @@
 
 
 ```mermaid
-graph LR
-    A[Python 80%] -->|Expertise| B[Data Analysis]
-    C[Pandas/NumPy 75%] -->|Processing| B
-    D[Power BI 65%] -->|Visualization| B
-    E[Flask/Streamlit 65%] -->|Web Apps| F[Web Dev]
-    G[SQL 60%] -->|Databases| F
-    H[HTML/CSS/JS 60%] -->|Frontend| F
+graph TD
+    %% Core Areas
+    A[Python - 80%] --> B[Data Analysis]
+    B1[Pandas / NumPy - 75%] --> B
+    B2[Power BI / Excel - 65%] --> B
+    B3[Matplotlib / Seaborn - 70%] --> B
+
+    C[Flask / Streamlit - 65%] --> D[Web Development]
+    D1[HTML / CSS / JS - 60%] --> D
+    D2[Jinja2 - 60%] --> D
+
+    E[SQL / MySQL - 60%] --> F[Databases]
+    
+    G[Git / GitHub - 70%] --> H[Version Control]
+    I[Jupyter / VS Code / PyCharm - 75%] --> J[Dev Tools]
+
+    K[LibreOffice / Google Workspace - 70%] --> L[Productivity Tools]
+
 ```
 🌱 Currently Exploring
 <div align="center" style="display: flex; justify-content: center; gap: 20px;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" /> <p><strong>TensorFlow</strong></p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI" /> <p><strong>FastAPI</strong></p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" alt="Azure" /> <p><strong>Azure</strong></p> </div> </div>
