@@ -130,23 +130,38 @@
 
 
 ```mermaid
-graph TD
-    %% Core Areas
-    A[Python - 80%] --> B[Data Analysis]
-    B1[Pandas / NumPy - 75%] --> B
-    B2[Power BI / Excel - 65%] --> B
-    B3[Matplotlib / Seaborn - 70%] --> B
+%% Mermaid bar chart
+%% Make sure your GitHub markdown rendering supports Mermaid
 
-    C[Flask / Streamlit - 65%] --> D[Web Development]
-    D1[HTML / CSS / JS - 60%] --> D
-    D2[Jinja2 - 60%] --> D
+%% Bar chart for skill proficiency
+%% Values can range from 0 to 100
 
-    E[SQL / MySQL - 60%] --> F[Databases]
-    
-    G[Git / GitHub - 70%] --> H[Version Control]
-    I[Jupyter / VS Code / PyCharm - 75%] --> J[Dev Tools]
+%% The "style" at the end gives color to each bar
 
-    K[LibreOffice / Google Workspace - 70%] --> L[Productivity Tools]
+%% Bar Chart Format
+%% Example: SkillName: score
+
+%% Chart title
+%% GitHub currently supports Mermaid via code blocks natively
+%% So this will render on your README.md directly
+
+%% New bar chart design with clear categories
+%% '%%' are Mermaid comments
+
+bar
+    title Skill Proficiency
+    "Python" : 80
+    "Pandas / NumPy" : 75
+    "Matplotlib / Seaborn" : 70
+    "Power BI / Excel" : 65
+    "SQL / MySQL" : 60
+    "Flask / Streamlit" : 65
+    "HTML / CSS / JS" : 60
+    "Jinja2" : 60
+    "Git / GitHub" : 70
+    "Jupyter / VS Code / PyCharm" : 75
+    "LibreOffice / Google Workspace" : 70
+
 
 ```
 🌱 Currently Exploring
