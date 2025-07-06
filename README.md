@@ -131,21 +131,13 @@
 
 ```mermaid
 
-| Skill                             | Proficiency        |
-|----------------------------------|--------------------|
-| **Python**                       | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ (80%) |
-| **Pandas / NumPy**               | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
-| **Matplotlib / Seaborn**         | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
-| **Power BI / Excel**             | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (65%) |
-| **SQL / MySQL**                  | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
-| **Flask / Streamlit**            | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (65%) |
-| **HTML / CSS / JavaScript**      | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
-| **Jinja2**                       | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
-| **Git / GitHub**                 | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
-| **Jupyter / VS Code / PyCharm**  | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
-| **LibreOffice / Google Workspace** | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
-
-
+graph LR
+    A[Python 80%] -->|Expertise| B[Data Analysis]
+    C[Pandas/NumPy 75%] -->|Processing| B
+    D[Power BI 65%] -->|Visualization| B
+    E[Flask/Streamlit 65%] -->|Web Apps| F[Web Dev]
+    G[SQL 60%] -->|Databases| F
+    H[HTML/CSS/JS 60%] -->|Frontend| F
 
 ```
 🌱 Currently Exploring
