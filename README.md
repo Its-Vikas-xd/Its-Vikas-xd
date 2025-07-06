@@ -130,37 +130,56 @@
 
 
 ```mermaid
-%% Mermaid bar chart
-%% Make sure your GitHub markdown rendering supports Mermaid
+## 📊 Skill Proficiency
 
-%% Bar chart for skill proficiency
-%% Values can range from 0 to 100
+```mermaid
+flowchart TD
+    subgraph Data_Analysis
+        A1[Python - 80%]
+        A2[Pandas / NumPy - 75%]
+        A3[Matplotlib / Seaborn - 70%]
+        A4[Power BI / Excel - 65%]
+    end
 
-%% The "style" at the end gives color to each bar
+    subgraph Web_Development
+        B1[HTML / CSS / JS - 60%]
+        B2[Flask / Streamlit - 65%]
+        B3[Jinja2 - 60%]
+    end
 
-%% Bar Chart Format
-%% Example: SkillName: score
+    subgraph Databases
+        C1[SQL / MySQL - 60%]
+    end
 
-%% Chart title
-%% GitHub currently supports Mermaid via code blocks natively
-%% So this will render on your README.md directly
+    subgraph Tools
+        D1[Git / GitHub - 70%]
+        D2[Jupyter / VS Code / PyCharm - 75%]
+        D3[LibreOffice / Google Workspace - 70%]
+    end
 
-%% New bar chart design with clear categories
-%% '%%' are Mermaid comments
+---
 
-bar
-    title Skill Proficiency
-    "Python" : 80
-    "Pandas / NumPy" : 75
-    "Matplotlib / Seaborn" : 70
-    "Power BI / Excel" : 65
-    "SQL / MySQL" : 60
-    "Flask / Streamlit" : 65
-    "HTML / CSS / JS" : 60
-    "Jinja2" : 60
-    "Git / GitHub" : 70
-    "Jupyter / VS Code / PyCharm" : 75
-    "LibreOffice / Google Workspace" : 70
+### Alternative ✅: Emoji Progress Bar (Universal Markdown-Compatible)
+
+If you want a solution that **works everywhere**, even where Mermaid isn't supported, here's a version using emoji progress bars:
+
+```markdown
+## 📊 Skill Proficiency
+
+| Skill                       | Level       |
+|----------------------------|-------------|
+| Python                     | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ (80%) |
+| Pandas / NumPy             | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
+| Matplotlib / Seaborn       | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
+| Power BI / Excel           | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (65%) |
+| SQL / MySQL                | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
+| Flask / Streamlit          | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (65%) |
+| HTML / CSS / JS            | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
+| Jinja2                     | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (60%) |
+| Git / GitHub               | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
+| Jupyter / VS Code / PyCharm| 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
+| LibreOffice / Workspace    | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (70%) |
+
 
 
 ```
