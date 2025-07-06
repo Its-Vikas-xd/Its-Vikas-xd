@@ -130,7 +130,6 @@
 
 
 ```mermaid
-## 📊 Skill Proficiency
 
 | Skill                             | Proficiency        |
 |----------------------------------|--------------------|
