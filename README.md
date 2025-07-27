@@ -135,7 +135,8 @@ graph LR
     E[Flask/Streamlit 65%] -->|Web Apps| F[Web Dev]
     G[SQL 60%] -->|Databases| F
     H[HTML/CSS/JS 60%] -->|Frontend| F
-    I[OpenCV 70%] -->|Image Processing| J[Computer Vision] 
+    I[OpenCV 70%] -->|Image Processing| J[Computer Vision]
+````
 
 🌱 Currently Exploring
 
