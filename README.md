@@ -60,93 +60,100 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<details>
-  <summary><b>📊 Data Analysis & Visualization</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logo=seaborn&logoColor=white" />
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🧮 Mathematics & Statistics</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Statistics-%2343853D?style=for-the-badge&logo=canonical&logoColor=white" />
-    <img src="https://img.shields.io/badge/Maths-6C3483?style=for-the-badge&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Web Development</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>💾 Databases & Querying</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>⚙️ DevOps & Tools</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🧰 Productivity & Office Tools</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Office%20Suite-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-    <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🤖 Computer Vision</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  </p>
-</details>
+## ✅ My Skills
 
 ---
 
-## 📊 Skill Proficiency
-
-```mermaid
-graph LR
-    A[Python 80%] -->|Expertise| B[Data Analysis]
-    C[Pandas/NumPy 75%] -->|Processing| B
-    D[Power BI 65%] -->|Visualization| B
-    E[Flask/Streamlit 65%] -->|Web Apps| F[Web Dev]
-    G[SQL 60%] -->|Databases| F
-    H[HTML/CSS/JS 60%] -->|Frontend| F
-    I[OpenCV 70%] -->|Image Processing| J[Computer Vision]
-```
+### 🖥️ **Programming Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" /> <b>Python</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" /> <b>JavaScript</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML" /> <b>HTML</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS" /> <b>CSS</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" alt="Embedded C" /> <b>Embedded C</b>
+</p>
 
 ---
 
+### 🧮 **Data Science & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-268BD2?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Normalization%20%26%20Standardization-6C3483?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Normalization & Standardization" />
+  <img src="https://img.shields.io/badge/FunctionTransformer-00BFFF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="FunctionTransformer" />
+  <img src="https://img.shields.io/badge/Supervised%20ML-FFC300?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Supervised ML" />
+  <img src="https://img.shields.io/badge/Statistics%20%26%20Maths%20for%20ML-11557C?style=for-the-badge&logo=mathworks&logoColor=white" alt="Statistics & Mathematics for ML" />
+</p>
+
+---
+
+### 📊 **Data Analysis & Visualization**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" alt="NumPy" /> <b>NumPy</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" alt="Pandas" /> <b>Pandas</b>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+</p>
+
+---
+
+### 🧰 **Developer Tools & IDEs**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" /> <b>VS Code</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="36" alt="Sublime Text" /> <b>Sublime Text</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="36" alt="PyCharm" /> <b>PyCharm</b>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+
+---
+
+### 🧪 **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <b>(Apps + API integrations)</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" alt="Flask" /> <b>Flask</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" alt="OpenCV" /> <b>OpenCV</b>
+</p>
+
+---
+
+### 🗃️ **Database & Query Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL" /> <b>MySQL</b>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <b>SQL</b>
+</p>
+
+---
+
+### 📂 **Productivity & Office Tools**
+<p>
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice" /> <b>LibreOffice Suite</b>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" /> <b>Microsoft Office Suite</b>
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" /> <b>Google Workspace</b>
+</p>
+
+---
+
+### 📈 **Analytics**
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Analytics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Analytics" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+</p>
 ### 🌱 Currently Exploring
 
 <div align="center">
