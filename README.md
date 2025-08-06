@@ -154,6 +154,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Google%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
 </p>
+
+---
+
 ### 🌱 Currently Exploring
 
 <div align="center">
