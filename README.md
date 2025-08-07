@@ -103,7 +103,7 @@
 ## 🐍 Snake Game Contribution
 
 <p align="center">
-  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/raw/output/github-contribution-grid-snake.svg" alt="Snake animation playing through my contributions!" style="max-width: 100%;">
 </p>
 
 ---
