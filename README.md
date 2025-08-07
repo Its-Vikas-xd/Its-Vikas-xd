@@ -1,39 +1,43 @@
 <!-- Gradient Banner | Vikas Sharma -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Vikas%20Sharma-3e1fff?style=for-the-badge&logo=github&labelColor=0c084c&logoColor=white&colorA=3e1fff&colorB=ff61c6">
+  <img src="https://img.shields.io/badge/-Vikas%20Sharma-7f3dff?style=for-the-badge&logo=github&labelColor=181717&logoColor=white&colorA=7f3dff&colorB=ff61c6">
 </p>
 
-<!-- Animated Capsule Header with Vibrant Gradient -->
-<h1 align="center">
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&section=header&text=✨%20Hey!%20I'm%20Vikas%20Sharma%20%F0%9F%92%A5&fontSize=42&animation=fadeIn&fontColor=FFFFFF&color=gradient&desc=Full-Stack%20%7C%20ML%20%7C%20Data%20Analytics%20%7C%20Visionary%20Coder&descSize=24&descAlign=70" alt="Animated Header">
-  </a>
-</h1>
-
-<!-- Hero Section: Animated Typing, Social, and Portfolio Links -->
+<!-- Capsule Header: Vibrant gradient, center align, big icons, more padding -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=700&color=ff61c6&center=true&vCenter=true&width=700&lines=🚀+Turning+Ideas+Into+Impact;+🤖+Machine+Learning+Explorer;+🦾+Full-Stack+Builder;+🎨+Creative+Problem+Solver;+✨+Always+Learning" alt="Animated Typing Intro" />
-  <br>
+  <div style="background: linear-gradient(90deg, #7f3dff 10%, #c2a7ff 40%, #ff61c6 90%); border-radius: 60px; padding: 48px 0; margin-bottom: 24px; width: 82%; min-width: 340px;">
+    <span style="font-size: 2.8em; font-weight: bold; color: #fff;">
+      ✨ Hey! I'm Vikas Sharma <span style="font-size: 1.2em;">💥</span>
+    </span>
+    <br/>
+    <span style="font-size: 1.3em; color: #f5f5f5; font-weight: 600; letter-spacing: 1px;">
+      Full-Stack&nbsp; | &nbsp;ML&nbsp; | &nbsp;Data Analytics&nbsp; | &nbsp;Visionary Code
+    </span>
+  </div>
+</div>
+
+<!-- Social & Portfolio Links -->
+<div align="center">
   <a href="https://vikas-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-3e1fff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/▲_PORTFOLIO-7f3dff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://img.shields.io/badge/🐙_GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/🖥️_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://x.com/ItsVikasXd">
-    <img src="https://img.shields.io/badge/🐦_Twitter-3e1fff?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/✖️_TWITTER-7f3dff?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:itsvikassharma007@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/🧾_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
 <table>
   <tr>
@@ -51,7 +55,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Developer Animation" width="210" style="border-radius: 50%; border: 4px solid #3e1fff; box-shadow:0 0 15px #3e1fff;" />
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Developer Animation" width="210" style="border-radius: 50%; border: 4px solid #7f3dff; box-shadow:0 0 15px #7f3dff;" />
     </td>
   </tr>
 </table>
@@ -74,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" />
-  <img src="https://img.shields.io/badge/Matplotlib-3e1fff?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Matplotlib-7f3dff?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Seaborn-ff61c6?style=for-the-badge&logo=seaborn&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/PowerBI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Excel-21A366?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
@@ -89,65 +93,17 @@
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/GitHub%20Analytics-24292F?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-3e1fff?style=for-the-badge&logo=googleanalytics&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-7f3dff?style=for-the-badge&logo=googleanalytics&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/KAOR-ff61c6?style=for-the-badge&logo=kaggle&logoColor=white" height="28" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🐍 Snake Game Contribution
 
-### 🖼️ AI Image Studio
-<div align="center">
-  <a href="https://github.com/Its-Vikas-xd/AI-Image-Studio">
-    <img src="https://github.com/Its-Vikas-xd/AI-Image-Studio/raw/main/Thumbnail.png" width="85%" style="border-radius: 10px; border: 1px solid #3e1fff; box-shadow: 0 5px 15px rgba(62,31,255,0.15);" />
-  </a>
-  <p>
-    <em>Advanced image processing app using OpenCV & Streamlit</em><br>
-    Features: Background removal, filters, transformations, & AI enhancements
-  </p>
-  <p>
-    <a href="https://github.com/Its-Vikas-xd/AI-Image-Studio">
-      <img src="https://img.shields.io/badge/🔗_Repository-24292F?style=flat-square&logo=github" alt="Repository" />
-    </a>
-    <a href="https://ai-image-studio.streamlit.app/">
-      <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=flat-square&logo=streamlit" alt="Live Demo" />
-    </a>
-  </p>
-</div>
-
-### 🎵 Spotify Analytics Dashboard
-<div align="center">
-  <a href="https://github.com/Its-Vikas-xd/spotify-analytics-Dashboard">
-    <img src="https://pbs.twimg.com/media/Gt5W8aNWQAA025J?format=jpg&name=large" width="85%" style="border-radius: 10px; border: 1px solid #3e1fff; box-shadow: 0 5px 15px rgba(62,31,255,0.15);" />
-  </a>
-  <p>
-    <em>Interactive Power BI dashboard for Spotify listening patterns</em><br>
-    Data from MySQL ➝ Cleaned in Pandas ➝ Multi-page visualization
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3e1fff?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-3e1fff?style=flat-square&logo=pandas&logoColor=white" />
-  </p>
-</div>
-
-### 🛍️ Shopify Sales Dashboard
-<div align="center">
-  <a href="https://github.com/Its-Vikas-xd/Shopify-Dashboard">
-    <img src="https://pbs.twimg.com/media/Gt5W8aRXoAAI3Rz?format=jpg&name=large" width="85%" style="border-radius: 10px; border: 1px solid #3e1fff; box-shadow: 0 5px 15px rgba(62,31,255,0.15);" />
-  </a>
-  <p>
-    <em>Comprehensive dashboard tracking sales & customer metrics</em><br>
-    Sales analysis, retention metrics, & interactive visualizations
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PowerBI-FFD700?style=flat-square&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3e1fff?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-3e1fff?style=flat-square&logo=pandas&logoColor=white" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+</p>
 
 ---
 
@@ -155,19 +111,19 @@
 
 <div align="center">
   <a href="https://github.com/Its-Vikas-xd">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&count_private=true&bg_color=0c084c&title_color=3e1fff&icon_color=ff61c6&border_color=3e1fff" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Its-Vikas-xd&show_icons=true&theme=radical&count_private=true&bg_color=181717&title_color=7f3dff&icon_color=ff61c6&border_color=7f3dff" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=8&bg_color=0c084c&title_color=3e1fff&border_color=3e1fff" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vikas-xd&layout=compact&theme=radical&langs_count=8&bg_color=181717&title_color=7f3dff&border_color=7f3dff" alt="Top Languages" />
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img height="165" src="https://streak-stats.demolab.com?user=Its-Vikas-xd&theme=radical&background=0c084c&stroke=ff61c6&ring=3e1fff&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=Its-Vikas-xd&theme=radical&background=181717&stroke=ff61c6&ring=7f3dff&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/Its-Vikas-xd?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://img.shields.io/badge/🚀_Explore_Python_Projects-3e1fff?style=for-the-badge&logo=python&logoColor=white" alt="Explore Python Projects" />
+    <img src="https://img.shields.io/badge/🚀_Explore_Python_Projects-7f3dff?style=for-the-badge&logo=python&logoColor=white" alt="Explore Python Projects" />
   </a>
 </div>
 
