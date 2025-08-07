@@ -98,13 +98,6 @@
   <img src="https://img.shields.io/badge/KAOR-ff61c6?style=for-the-badge&logo=kaggle&logoColor=white" height="28" />
 </div>
 
----
-
-## 🐍 Snake Game Contribution
-
-<p align="center">
-  <img src="https://github.com/Its-Vikas-xd/Its-Vikas-xd/raw/output/github-contribution-grid-snake.svg" alt="Snake animation playing through my contributions!" style="max-width: 100%;">
-</p>
 
 ---
 
