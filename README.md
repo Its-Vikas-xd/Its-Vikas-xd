@@ -1,39 +1,45 @@
-<!-- Gradient Banner | Vikas Sharma -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Vikas%20Sharma-7f3dff?style=for-the-badge&logo=github&labelColor=181717&logoColor=white&colorA=7f3dff&colorB=ff61c6">
-</p>
+<h1 align="center">
+  <a href="https://github.com/Its-Vikas-xd">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=140&section=header&text=✨%20Hello%20World!%20I'm%20Vikas%20✨&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Animated Header">
+  </a>
+</h1>
 
-<!-- Capsule Header: Vibrant gradient, center align, big icons, more padding -->
 <div align="center">
-  <div style="background: linear-gradient(90deg, #7f3dff 10%, #c2a7ff 40%, #ff61c6 90%); border-radius: 60px; padding: 48px 0; margin-bottom: 24px; width: 82%; min-width: 340px;">
-    <span style="font-size: 2.8em; font-weight: bold; color: #fff;">
-      ✨ Hey! I'm Vikas Sharma <span style="font-size: 1.2em;">💥</span>
-    </span>
-    <br/>
-    <span style="font-size: 1.3em; color: #f5f5f5; font-weight: 600; letter-spacing: 1px;">
-      Full-Stack&nbsp; | &nbsp;ML&nbsp; | &nbsp;Data Analytics&nbsp; | &nbsp;Visionary Code
-    </span>
+  <h2 style="margin: 15px 0; font-size: 28px; background: linear-gradient(45deg, #7F3DFF, #5D3FD3); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
+    Python Developer | Data Analyst | data science | Machine Learning Enthusiast
+  </h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
+  </div>
+  
+  <div style="max-width: 600px; margin: 0 auto; padding: 15px; background: rgba(127, 61, 255, 0.05); border-radius: 15px; border: 1px solid rgba(127, 61, 255, 0.2);">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F3DFF&center=true&vCenter=true&width=435&lines=Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
   </div>
 </div>
 
-<!-- Social & Portfolio Links -->
-<div align="center">
+<p align="center">
   <a href="https://vikas-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/▲_PORTFOLIO-7f3dff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7F3DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/vikas-sharma-493115361/">
-    <img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://img.shields.io/badge/🖥️_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://x.com/ItsVikasXd">
-    <img src="https://img.shields.io/badge/✖️_TWITTER-7f3dff?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:itsvikassharma007@gmail.com">
-    <img src="https://img.shields.io/badge/🧾_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
+
 
 ---
 
