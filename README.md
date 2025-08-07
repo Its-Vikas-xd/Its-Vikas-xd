@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2 style="margin: 15px 0; font-size: 28px; background: linear-gradient(45deg, #7F3DFF, #5D3FD3); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
-    Python Developer | Data Analyst | data science | Machine Learning Enthusiast
+    Python Developer | Data Analyst | Machine Learning Enthusiast
   </h2>
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
