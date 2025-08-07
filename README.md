@@ -67,7 +67,7 @@
 <div align="center" style="margin-bottom: 8px;">
   <!-- All skills together, animated effect via shields.io and devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="38" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="38" height="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" />
@@ -79,9 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" />
-  <img src="https://img.shields.io/badge/Matplotlib-7f3dff?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Seaborn-ff61c6?style=for-the-badge&logo=seaborn&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/PowerBI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="28" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1-oC4gtSXSqISRSwdiEOaKYcSRmP5L0j2Q&s" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="28" />
   <img src="https://img.shields.io/badge/Excel-21A366?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" />
