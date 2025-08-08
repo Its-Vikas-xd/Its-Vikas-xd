@@ -9,13 +9,6 @@
     Python Developer | Data Analyst | Machine Learning Enthusiast
   </h2>
   
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/10872/10872628.png" width="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/10179/10179126.png" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-  </div>
   
   <div style="max-width: 600px; margin: 0 auto; padding: 15px; background: rgba(127, 61, 255, 0.05); border-radius: 15px; border: 1px solid rgba(127, 61, 255, 0.2);">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F3DFF&center=true&vCenter=true&width=435&lines=Data+into+Actionable+Insights;Building+Scalable+Solutions;Exploring+Full-Stack+Development;Creating+Impact+Through+Code" alt="Typing SVG" />
