@@ -51,15 +51,38 @@
 
 ## ⚡ Tech Stack
 
-<div align="center" style="margin-bottom: 8px;">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit-learn,tensorflow,flask,fastapi,opencv,mysql,js,html,css,c,git,vscode,pycharm,azure" height="48" />
-  <br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" />
+## 🛠 Skills & Tools
+
+<div align="center">
+
+### 💻 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,html,css,js" height="45" /> 
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Seaborn-3794FF?style=for-the-badge&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Statistics%20%26%20Mathematics-7f3dff?style=for-the-badge&logo=mathworks&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-ff6f00?style=for-the-badge&logo=databricks&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Supervised%20ML-0176D3?style=for-the-badge&logo=scikitlearn&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" />
+<img src="https://skillicons.dev/icons?i=mysql" height="45" /> 
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
+<img src="https://skillicons.dev/icons?i=flask" height="45" /> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25" />
+<img src="https://skillicons.dev/icons?i=jupyter,vscode,pycharm" height="45" /> 
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/API%20Integration-0A66C2?style=for-the-badge&logo=apachespark&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Data%20Storytelling-ff61c6?style=for-the-badge&logo=datadog&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Dataset%20Creation-FFA500?style=for-the-badge&logo=airtable&logoColor=white" height="25" />
+
 </div>
+
 
 ---
 
