@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vikas%20Sharma&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Python%20Developer%20|%20Data%20Scientist%20|%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🚀+Transforming+Data+into+Intelligence;🤖+Building+AI-Powered+Solutions;📊+Creating+Impactful+Analytics;🌟+Passionate+Full-Stack+Developer;💡+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
-</div>
-
 <br>
 
 <div align="center">
@@ -134,11 +130,6 @@ print(f"Currently {me.current_focus} and loving every bit of it! 🚀")
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://github-profile-trophy.vercel.app/?username=Its-Vikas-xd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/Its-Vikas-xd">
@@ -161,18 +152,6 @@ print(f"Currently {me.current_focus} and loving every bit of it! 🚀")
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Programming Humor
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
   
   <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
@@ -182,7 +161,4 @@ print(f"Currently {me.current_focus} and loving every bit of it! 🚀")
   <p>⭐ If you find my projects interesting, don't forget to star them!</p>
 </div>
 
-<!-- Snake Game Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Its-Vikas-xd/Its-Vikas-xd/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
+
