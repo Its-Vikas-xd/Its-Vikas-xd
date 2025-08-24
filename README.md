@@ -18,7 +18,6 @@
 name: "Vikas Sharma"
 role: "Python Developer | Data Scientist | ML Engineer"
 location: "India 🇮🇳"
-experience: "3+ years"
 focus: ["Machine Learning", "Data Analytics", "Full-Stack Development"]
 currently_learning: ["Deep Learning", "Cloud Architecture", "MLOps"]
 available_for: ["Freelance", "Collaboration", "Open Source"]
