@@ -131,12 +131,6 @@ print(f"Currently {me.current_focus} and loving every bit of it! 🚀")
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/Its-Vikas-xd">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Vikas-xd&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true"/>
-  </a>
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
