@@ -1,7 +1,7 @@
 # 💫 Vikas Sharma
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vikas%20Sharma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Scientist%20|%20da%20Engineer&descAlignY=51&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vikas%20Sharma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Scientist%20|%20Data%20Analysis&descAlignY=51&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
