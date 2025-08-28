@@ -1,12 +1,12 @@
 # 💫 Vikas Sharma
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vikas%20Sharma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Scientist%20|%20ML%20Engineer&descAlignY=51&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vikas%20Sharma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Scientist%20|%20da%20Engineer&descAlignY=51&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Vikas+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Data+Scientist+%F0%9F%93%8A;Data+Learning+Engineer+%F0%9F%A4%96;Building+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Vikas+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Data+Scientist+%F0%9F%93%8A;Data+Analysis+%F0%9F%A4%96;Building+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
